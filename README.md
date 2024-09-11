@@ -1,0 +1,1 @@
+Se desarrolló una calculadora que realiza operaciones utilizando diferentes tipos de operadores. Incluye operaciones aritméticas, lógicas, relacionales, incrementales, operaciones de bits y operaciones booleanas
